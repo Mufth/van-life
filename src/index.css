@@ -70,6 +70,7 @@ header a:hover {
   -o-background-size: cover;
   background-size: cover;
   min-height: 350px;
+  text-align: center;
   color: white;
   padding: 45px 23px;
 }
